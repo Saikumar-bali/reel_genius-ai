@@ -1,0 +1,7 @@
+{
+  "name": "ReelGenius AI",
+  "description": "A professional Instagram Reels creator featuring AI-powered lyrics, image transitions, and custom watermarking with logo support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

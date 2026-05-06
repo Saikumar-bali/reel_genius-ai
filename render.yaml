@@ -1,0 +1,8 @@
+build:
+  publish: dist
+  command: npm run build
+  engine: static
+
+env:
+  GEMINI_API_KEY:
+    value: PLACEHOLDER_API_KEY
